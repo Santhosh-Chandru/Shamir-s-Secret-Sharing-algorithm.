@@ -1,4 +1,4 @@
-# Shamir-s-Secret-Sharing-algorithm.
+//Shamir-s-Secret-Sharing-algorithm.
 #include <iostream>
 #include <fstream>
 #include <string>
